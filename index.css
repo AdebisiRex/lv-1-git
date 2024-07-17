@@ -1,0 +1,9 @@
+h1 {
+  color: palevioletred;
+}
+
+p {
+  color: blueviolet;
+  padding: 2rem;
+  background-color: rgba(250, 235, 215, 0.466);
+}
